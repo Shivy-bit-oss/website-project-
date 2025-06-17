@@ -110,7 +110,7 @@ A sophisticated and modern restaurant website built with React and Material-UI, 
 
 1. Clone the repository
 ```bash
-git clone https://github.com/Sarverjii/Wine-Dine.git
+
 cd Wine-Dine
 ```
 
@@ -180,9 +180,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Authors
 
-- **Sarverjii** - *Initial work* - [GitHub Profile](https://github.com/Sarverjii)
 
 ## 🙏 Acknowledgments
 
